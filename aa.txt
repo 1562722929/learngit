@@ -1,6 +1,2 @@
 dsfe
-<<<<<<< HEAD
 aaaaaaaaa
-=======
-aaaaaaaaa
->>>>>>> feature1
